@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-My name is Rudimilson (or "Rudi" :smile:, for short) Antoni and I'm a software developer from 🇧🇷 Brazil.
+My name is Rudi Antoni and I'm a software developer from 🇧🇷 Brazil.
 
 I fell in love with software development since my first contact with programming using C language with PIC microcontrollers :anguished:. Since then, I just like every type and possible branch inside and around software development.
 
