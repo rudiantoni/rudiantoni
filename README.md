@@ -1,6 +1,7 @@
 ### Hi there! :wave:
 
 My name is Rudimilson (or "Rudi" :smile:, for short) Antoni and I'm a software developer from 🇧🇷 Brazil.
+
 I fell in love with software development since my first contact with programming using C language with PIC microcontrollers :anguished:. Since then, I just like every type and possible branch inside and around software development.
 
 - :seedling: I'm currently learning Spring Batch framework in Java, and much more on the way!
@@ -14,8 +15,8 @@ I fell in love with software development since my first contact with programming
   - :green_circle: React
   - :green_circle: Java and Kotlin (JPA, Spring Boot Web and Data)
   - :green_circle: PostreSQL, MySQL, Oracle, MSSQL Server and MongoDB.
+- :speech_balloon: The ones marked with :green_circle: are those which I keep in touch almost in a daily basis in my work.
 - :zap: Fun fact: The first language I learned was C, but it's the one i'm the least proficient with.
-- The ones marked with :green_circle: are those which I keep in touch almost in a daily basis in my work.
 
 # Learning repositories
 - [Spring Batch framework](https://github.com/rudiantoni/learn-spring-batch)
