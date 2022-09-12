@@ -1,6 +1,10 @@
 ### Hi there! :wave:
 
-- :seedling: I'm currently learning HTML, CSS, JS, SQL, Node.js, React and much more!
+- :seedling: I'm currently learning Spring Batch framework in Java, and much more on the way!
+
+# Learning repositories:
+- [Spring Batch framework](https://github.com/rudiantoni/learn-spring-batch)
+
 <!--
 **rudiantoni/rudiantoni** is a :sparkles: _special_ :sparkles: repository because it's `README.md` (this file) appears on your GitHub profile.
 
