@@ -15,7 +15,7 @@ I liked software development since my first contact, which was with the C progra
   - :green_circle: React
   - :green_circle: Java and Kotlin (JPA, Spring Boot Web and Data)
   - :green_circle: PostreSQL, MySQL, Oracle, MSSQL Server and MongoDB.
-- :speech_balloon: The ones marked with :green_circle: are those which I keep in touch almost in a daily basis in my work.
+- :speech_balloon: The ones marked with :green_circle: are those which I keep in touch almost in a daily basis.
 - :zap: Fun fact: The first language I learned was C, but it's the one i'm the least proficient with.
 
 # Learning repositories
