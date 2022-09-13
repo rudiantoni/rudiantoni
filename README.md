@@ -2,9 +2,9 @@
 
 My name is Rudi Antoni and I'm a software developer from 🇧🇷 Brazil.
 
-I fell in love with software development since my first contact with programming using C language with PIC microcontrollers :anguished:. Since then, I just like every type and possible branch inside and around software development.
+I liked software development since my first contact, which was with the C programming language for PIC microcontrollers :anguished:. Since then, I just like every type and possible branch inside and around software development.
 
-- :seedling: I'm currently learning Spring Batch framework in Java, and much more on the way!
+- :seedling: I'm currently learning Spring Batch framework in Java, and much more are on the way!
 - :telescope: If you want to see what I'm currently learning, take a look at [learning repositories](#learning-repositories) below.
 - :thinking: I’m looking for help with DevOps, including Docker and Kubernetes. These are my next goals to achieve.
 - :speech_balloon: I already have developed personal learning projects using a lot of different technologies that are not present here, maybe someday I'll create some and publish them but that's not the point right now. Here they are, sorted by proficiency in ascending order:
