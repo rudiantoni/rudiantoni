@@ -20,6 +20,10 @@ I liked software development since my first contact, which was with the C progra
 
 # Learning repositories
 - [Spring Batch framework](https://github.com/rudiantoni/learn-spring-batch)
+  - [first-spring-batch](https://github.com/rudiantoni/first-spring-batch)
+  - [refactor-first-spring-batch](https://github.com/rudiantoni/refactor-first-spring-batch)
+  - [database-spring-batch](https://github.com/rudiantoni/database-spring-batch)
+
 
 <!--
 **rudiantoni/rudiantoni** is a :sparkles: _special_ :sparkles: repository because it's `README.md` (this file) appears on your GitHub profile.
