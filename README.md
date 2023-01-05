@@ -20,9 +20,9 @@ I liked software development since my first contact, which was with the C progra
 
 # Learning repositories
 - [Spring Batch framework](https://github.com/rudiantoni/learn-spring-batch)
-  - [first-spring-batch](https://github.com/rudiantoni/first-spring-batch)
-  - [refactor-first-spring-batch](https://github.com/rudiantoni/refactor-first-spring-batch)
-  - [database-spring-batch](https://github.com/rudiantoni/database-spring-batch)
+  - [spring-batch-first](https://github.com/rudiantoni/spring-batch-first)
+  - [spring-batch-first-refactor](https://github.com/rudiantoni/spring-batch-first-refactor)
+  - [spring-batch-database](https://github.com/rudiantoni/spring-batch-database)
 
 
 <!--
