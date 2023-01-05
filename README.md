@@ -23,6 +23,7 @@ I liked software development since my first contact, which was with the C progra
   - [spring-batch-first](https://github.com/rudiantoni/spring-batch-first)
   - [spring-batch-first-refactor](https://github.com/rudiantoni/spring-batch-first-refactor)
   - [spring-batch-database](https://github.com/rudiantoni/spring-batch-database)
+  - [spring-batch-database-double](https://github.com/rudiantoni/spring-batch-database-double)
 
 
 <!--
