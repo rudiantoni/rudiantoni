@@ -1,11 +1,10 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudiantoni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 <div align="center">
-
+  <img src="https://profile-counter.glitch.me/{rudiantoni}/count.svg" alt="rudiantoni :: Visitor's Count" />
+  <br />
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rudiantoni?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   <a href="https://www.linkedin.com/in/rudimilson-antoni-34b872115/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 28px;"></a>
   <a href="https://www.facebook.com/rudi.antoni.70" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook" style="height: 28px;"></a>
-
+  
 </div>
 
 
@@ -16,12 +15,13 @@ My name is Rudi Antoni and I'm a software developer from 🇧🇷 Brazil.
 I liked software development since my first contact, which was with the C programming language for PIC microcontrollers :anguished:. Since then, I just like every type and possible branch inside and around software development.
 
 ## Development stats
+<div align="center">
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=rudiantoni&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" />
+  <img style="display: inline-block; height: 165px;" src="https://github-readme-streak-stats.herokuapp.com/?user=rudiantoni&theme=tokyonight" alt="mystreak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudiantoni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudiantoni&theme=tokyonight" alt="mystreak"/>
- 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=rudiantoni&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" />
 
 - :seedling: I'm currently learning Spring Batch framework in Java, and much more are on the way!
 - :telescope: If you want to see what I'm currently learning, take a look at [main repositories](#main-repositories) below.
@@ -31,11 +31,15 @@ I liked software development since my first contact, which was with the C progra
 
 ### [Spring Batch framework](https://github.com/rudiantoni/learn-spring-batch)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first)](https://github.com/rudiantoni/spring-batch-first)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first-refactor)](https://github.com/rudiantoni/spring-batch-first-refactor)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-database)](https://github.com/rudiantoni/spring-batch-database)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-database-double)](https://github.com/rudiantoni/spring-batch-database-double))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-file-fixed-width)](https://github.com/rudiantoni/spring-batch-file-fixed-width)
+<div align="center">
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first)](https://github.com/rudiantoni/spring-batch-first)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first-refactor)](https://github.com/rudiantoni/spring-batch-first-refactor)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-database)](https://github.com/rudiantoni/spring-batch-database)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-database-double)](https://github.com/rudiantoni/spring-batch-database-double))
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-file-fixed-width)](https://github.com/rudiantoni/spring-batch-file-fixed-width)
+  
+</div>
 
 ## Other info
 
@@ -50,5 +54,11 @@ I liked software development since my first contact, which was with the C progra
 - :speech_balloon: The ones marked with :green_circle: are those which I keep in touch almost in a daily basis.
 - :zap: Fun fact: The first language I learned was C, but it's the one i'm the least proficient with (I'm not sure if that's fun though).
 
-<img src="https://github-profile-trophy.vercel.app/?username=rudiantoni&theme=juicyfresh&no-bg=true" />
+## Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=rudiantoni&theme=juicyfresh&no-bg=true" />
+  
+</div>
 
