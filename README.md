@@ -17,6 +17,8 @@ I liked software development since my first contact, which was with the C progra
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudiantoni&theme=tokyonight" alt="mystreak"/>
+
 - :seedling: I'm currently learning Spring Batch framework in Java, and much more are on the way!
 - :telescope: If you want to see what I'm currently learning, take a look at [main repositories](#main-repositories).
 - :thinking: I’m looking for help with DevOps, including Docker and Kubernetes. These are my next goals to achieve.
