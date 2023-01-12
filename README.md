@@ -31,9 +31,9 @@ I liked software development since my first contact, which was with the C progra
 - :zap: Fun fact: The first language I learned was C, but it's the one i'm the least proficient with (I'm not sure if that's fun though).
 
 <div align="center">
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=rudiantoni&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" />
+<!--   <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=rudiantoni&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" /> -->
   <img style="display: inline-block; height: 165px;" src="https://github-readme-streak-stats.herokuapp.com/?user=rudiantoni&theme=tokyonight" alt="mystreak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudiantoni&show_icons=true&layout=compact&locale=en&theme=chartreuse-dark&langs_count=10" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudiantoni&show_icons=true&layout=compact&locale=en&theme=chartreuse-dark&langs_count=10" /> -->
 </div>
 
 <div align="center" >
@@ -98,15 +98,23 @@ I liked software development since my first contact, which was with the C progra
 
 ### [Spring Batch framework](https://github.com/rudiantoni/learn-spring-batch)
 
+- [spring-batch-first](https://github.com/rudiantoni/spring-batch-first)
+- [spring-batch-first-refactor](https://github.com/rudiantoni/spring-batch-first-refactor)
+- [spring-batch-database](https://github.com/rudiantoni/spring-batch-database)
+- [spring-batch-database-double](https://github.com/rudiantoni/spring-batch-database-double)
+- [spring-batch-file-fixed-width](https://github.com/rudiantoni/spring-batch-file-fixed-width)
+
+<!-- 
 <div align="center">
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first)](https://github.com/rudiantoni/spring-batch-first)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first-refactor)](https://github.com/rudiantoni/spring-batch-first-refactor)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first-refactor)]/(https://github.com/rudiantoni/spring-batch-first-refactor)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-database)](https://github.com/rudiantoni/spring-batch-database)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-database-double)](https://github.com/rudiantoni/spring-batch-database-double))
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-file-fixed-width)](https://github.com/rudiantoni/spring-batch-file-fixed-width)
   
-</div>
+</div> 
+-->
 
 ## Trophies
 
