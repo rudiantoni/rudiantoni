@@ -19,6 +19,14 @@ I liked software development since my first contact, which was with the C progra
 
 ## Development stats
 
+<div align="center">
+<!--   <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=rudiantoni&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" /> -->
+  <img style="display: inline-block; height: 165px;" src="https://github-readme-streak-stats.herokuapp.com/?user=rudiantoni&theme=tokyonight" alt="mystreak" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudiantoni&show_icons=true&layout=compact&locale=en&theme=chartreuse-dark&langs_count=10" /> -->
+</div>
+
+### Main skills
+
 - :speech_balloon: I already have developed personal learning projects using a lot of different technologies that are not present here, maybe someday I'll create some and publish them but that's not the point right now. Here they are, sorted by proficiency in ascending order:
   - C, C++ and Pawn
   - PHP (Magento, Wordpress, TemplatePower, Smarty and CodeIgniter)
@@ -30,11 +38,7 @@ I liked software development since my first contact, which was with the C progra
 - :speech_balloon: The ones marked with :green_circle: are those which I keep in touch almost in a daily basis.
 - :zap: Fun fact: The first language I learned was C, but it's the one i'm the least proficient with (I'm not sure if that's fun though).
 
-<div align="center">
-<!--   <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=rudiantoni&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" /> -->
-  <img style="display: inline-block; height: 165px;" src="https://github-readme-streak-stats.herokuapp.com/?user=rudiantoni&theme=tokyonight" alt="mystreak" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudiantoni&show_icons=true&layout=compact&locale=en&theme=chartreuse-dark&langs_count=10" /> -->
-</div>
+### Skills overview
 
 <div align="center" >
   
@@ -69,12 +73,13 @@ I liked software development since my first contact, which was with the C progra
   <h3>Databases</h3>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="64px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="64px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="64px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="64px" />
   <img src="https://i.imgur.com/vDySFWF.png" height="64px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="64px" />
   
   <h4>Other technologies</h4>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="64px" />
   <img src="https://i.imgur.com/vWWyqpm.png" height="64px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="64px" />
@@ -84,7 +89,6 @@ I liked software development since my first contact, which was with the C progra
   <img src="https://i.imgur.com/M4GxEK4.png" height="64px" />
   <img src="https://i.imgur.com/rJoN2Jd.png" height="64px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="64px" />
-  
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" height="64px" />
 
