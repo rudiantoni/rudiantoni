@@ -109,7 +109,6 @@ I liked software development since my first contact, which was with the C progra
 - [spring-batch-database-double](https://github.com/rudiantoni/spring-batch-database-double)
 - [spring-batch-file-fixed-width](https://github.com/rudiantoni/spring-batch-file-fixed-width)
 
-<!-- 
 <div align="center">
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first)](https://github.com/rudiantoni/spring-batch-first)
@@ -118,8 +117,7 @@ I liked software development since my first contact, which was with the C progra
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-database-double)](https://github.com/rudiantoni/spring-batch-database-double))
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-file-fixed-width)](https://github.com/rudiantoni/spring-batch-file-fixed-width)
   
-</div> 
--->
+</div>
 
 ## Trophies
 
