@@ -104,32 +104,47 @@ I liked software development since my first contact, which was with the C progra
 
 ### [Spring Batch framework](https://github.com/rudiantoni/learn-spring-batch)
 
-<!--
-
-- [spring-batch-first](https://github.com/rudiantoni/spring-batch-first)
-- [spring-batch-first-refactor](https://github.com/rudiantoni/spring-batch-first-refactor)
-- [spring-batch-database](https://github.com/rudiantoni/spring-batch-database)
-- [spring-batch-database-double](https://github.com/rudiantoni/spring-batch-database-double)
-- [spring-batch-file-fixed-width](https://github.com/rudiantoni/spring-batch-file-fixed-width)
-
--->
-
-
 <div align="center">
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first)](https://github.com/rudiantoni/spring-batch-first)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-first-refactor)](https://github.com/rudiantoni/spring-batch-first-refactor)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-database)](https://github.com/rudiantoni/spring-batch-database)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-database-double)](https://github.com/rudiantoni/spring-batch-database-double)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudiantoni&repo=spring-batch-file-fixed-width)](https://github.com/rudiantoni/spring-batch-file-fixed-width)
-  
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Link</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>spring-batch-first</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-first" target="_blank">spring-batch-first</a></td>
+      <td>Basic working Spring Batch structure.</td>
+    </tr>
+    <tr>
+      <td>spring-batch-first-refactor</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-first-refactor" target="_blank">spring-batch-first-refactor</a></td>
+      <td>Refactoring from the first Spring Batch project.</td>
+    </tr>
+    <tr>
+      <td>spring-batch-database</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-database" target="_blank">spring-batch-database</a></td>
+      <td>First Spring Batch project connecting to a database using MySQL.</td>
+    </tr>
+    <tr>
+      <td>spring-batch-database-double</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-database-double" target="_blank">spring-batch-database-double</a></td>
+      <td>First double Spring Batch Application connecting multiple databases.</td>
+    </tr>
+    <tr>
+      <td>spring-batch-file-fixed-width</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-file-fixed-width" target="_blank">spring-batch-file-fixed-width</a></td>
+      <td>Spring Batch application using a fixed width file as datasource.</td>
+    </tr>
+    <tr>
+      <td>spring-batch-file-delimited</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-file-delimited" target="_blank">spring-batch-file-delimited</a></td>
+      <td>Spring Batch application using a delimited file as datasource.</td>
+    </tr>
+  </table>
 </div>
  
-
 ## Trophies
 
 <div align="center">
