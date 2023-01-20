@@ -142,6 +142,21 @@ I liked software development since my first contact, which was with the C progra
       <td><a href="https://github.com/rudiantoni/spring-batch-file-delimited" target="_blank">spring-batch-file-delimited</a></td>
       <td>Spring Batch application using a delimited file as datasource.</td>
     </tr>
+    <tr>
+      <td>spring-batch-file-delimited-relationship</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-file-delimited-relationship" target="_blank">spring-batch-file-delimited-relationship</a></td>
+      <td>Spring Batch application using a delimited file as datasource containing multi domain data within its contents.</td>
+    </tr>
+    <tr>
+      <td>spring-batch-xml-reader</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-xml-reader" target="_blank">spring-batch-xml-reader</a></td>
+      <td>Spring Batch application using a xml file as data source.</td>
+    </tr>
+    <tr>
+      <td>spring-batch-json-reader</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-json-reader" target="_blank">spring-batch-json-reader</a></td>
+      <td>Spring Batch application using a json file as data source.</td>
+    </tr>
   </table>
 </div>
  
