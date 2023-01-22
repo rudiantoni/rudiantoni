@@ -157,6 +157,11 @@ I liked software development since my first contact, which was with the C progra
       <td><a href="https://github.com/rudiantoni/spring-batch-json-reader" target="_blank">spring-batch-json-reader</a></td>
       <td>Spring Batch application using a json file as data source.</td>
     </tr>
+    <tr>
+      <td>spring-batch-jdbc-cursor-reader</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-jdbc-cursor-reader" target="_blank">spring-batch-jdbc-cursor-reader</a></td>
+      <td>Reading data from a database with JdbcCursorReader reader.</td>
+    </tr>
   </table>
 </div>
  
