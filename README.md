@@ -167,6 +167,11 @@ I liked software development since my first contact, which was with the C progra
       <td><a href="https://github.com/rudiantoni/spring-batch-jdbc-paging-reader" target="_blank">spring-batch-jdbc-paging-reader</a></td>
       <td>Reading data from a database with JdbcPagingReader reader.</td>
     </tr>
+    <tr>
+      <td>spring-batch-budget-report</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-budget-report" target="_blank">spring-batch-budget-report</a></td>
+      <td>Exercise answer, using both multiple delimited file readers with related domain classes and database as datasource.</td>
+    </tr>
   </table>
 </div>
  
