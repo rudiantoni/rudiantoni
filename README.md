@@ -162,6 +162,11 @@ I liked software development since my first contact, which was with the C progra
       <td><a href="https://github.com/rudiantoni/spring-batch-jdbc-cursor-reader" target="_blank">spring-batch-jdbc-cursor-reader</a></td>
       <td>Reading data from a database with JdbcCursorReader reader.</td>
     </tr>
+    <tr>
+      <td>spring-batch-jdbc-paging-reader</td>
+      <td><a href="https://github.com/rudiantoni/spring-batch-jdbc-paging-reader" target="_blank">spring-batch-jdbc-paging-reader</a></td>
+      <td>Reading data from a database with JdbcPagingReader reader.</td>
+    </tr>
   </table>
 </div>
  
