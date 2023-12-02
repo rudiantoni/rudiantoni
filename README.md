@@ -1,7 +1,7 @@
 
 # Hi there! :wave:
 
-My name is Rudi Antoni and I'm a software developer from 🇧🇷 Brazi
+My name is Rudi Antoni and I'm a software developer from 🇧🇷 Brazil
 
 I liked software development since my first contact, which was with the C programming language for PIC microcontrollers :anguished:. Since then, I just like every type and possible branch inside and around software development.
 
